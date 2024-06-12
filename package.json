@@ -1,0 +1,17 @@
+{
+  "name": "@hugos68/svelte-intersect",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.1",
+    "svelte": "5.0.0-next.153",
+    "typescript": "^5.4.5"
+  }
+}
